@@ -1,5 +1,6 @@
 
 include device/samsung/exynos7580-common/BoardConfigCommon.mk
+TW_EXCLUDE_PYTHON := true
 
 TARGET_KERNEL_CONFIG := lineageos_a3xelte_defconfig
 
